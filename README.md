@@ -1,31 +1,36 @@
-Flipper SubGHz File Sorter GUI
+# Flipper SubGHz File Sorter GUI
 
-Flipper SubGHz File Sorter GUI is a user-friendly tool designed to organize and sort .sub files used with the Flipper Zero device. It enables users to filter files by frequencies and protocols, organize them into well-structured directories, and streamline the management of SubGHz files for exploration and efficient use.
-Features
+**Flipper SubGHz File Sorter GUI** is a user-friendly tool designed to organize and sort `.sub` files used with the Flipper Zero device. This tool allows you to filter files by frequency and protocol, creating a structured and efficient way to manage your SubGHz files.
 
-    Filter by Frequency and Protocol: Select specific frequencies and protocols to sort .sub files.
-    Automated Sorting: Creates directories based on selected protocols and frequencies.
-    Pre-Sorting Scan: Scans files to calculate accurate progress before sorting begins.
-    Optional Logging: Generates a log file of all copied files and their destinations.
-    Intuitive Interface: Easy-to-use GUI built with Python and Tkinter.
-    Flipper Zero Compatibility: Designed specifically for Flipper Zero users and SubGHz enthusiasts.
+## Features
+- **Filter by Frequency and Protocol**: Select specific frequencies and protocols to process `.sub` files.
+- **Automated Sorting**: Automatically creates organized directories based on selected frequencies and protocols.
+- **Pre-Sorting Scan**: Scans files beforehand to ensure accurate progress tracking during sorting.
+- **Optional Logging**: Generates a log file of all copied files and their destinations.
+- **Simple GUI**: An intuitive graphical interface powered by Python and Tkinter.
+- **Flipper Zero Compatibility**: Designed specifically for Flipper Zero users and SubGHz enthusiasts.
 
-How It Works
+## How It Works
+1. Select the source folder containing `.sub` files.
+2. Choose the destination folder where sorted files will be stored.
+3. Check the desired frequencies and protocols.
+4. Click **Start Sorting** to begin.
 
-    Select the source folder containing .sub files.
-    Choose the destination folder where sorted files will be stored.
-    Check the frequencies and protocols you are interested in.
-    Click Start Sorting to begin the process.
+The application organizes the files into directories based on their frequency and protocol, ensuring easy access and management.
 
-Requirements
+## Requirements
+- Python 3.6 or later.
+- Required Python Libraries:
+  - `tkinter`
+  - `shutil`
+  - `os`
+  - `re`
 
-    Python 3.6 or later.
-    Python Libraries:
-        tkinter
-        shutil
-        os
-        re
-
-Installation
-
-    Clone the repository:
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/[your-username]/flipper-subghz-sorter.git](https://github.com/Vlad-F13/Flipper-SubGHz-Signal-File-Organizer)
+   cd flipper-subghz-sorter
+2. Run the application:
+   ```bash
+   python flipper-subghz-sorter.git
