@@ -38,4 +38,7 @@ The application organizes the files into directories based on their frequency an
    ```bash
    python Flipper-SubGHz-Signal-File-Organizer.py
 
+## Download
+
+You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest executable version for Windows
    
