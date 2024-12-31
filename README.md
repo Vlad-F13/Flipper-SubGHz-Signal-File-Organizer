@@ -29,8 +29,8 @@ The application organizes the files into directories based on their frequency an
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/[your-username]/flipper-subghz-sorter.git](https://github.com/Vlad-F13/Flipper-SubGHz-Signal-File-Organizer)
+   git clone https://github.com/Vlad-F13/Flipper-SubGHz-Signal-File-Organizer.git
    cd flipper-subghz-sorter
 2. Run the application:
    ```bash
-   python flipper-subghz-sorter.git
+   python Flipper-SubGHz-Signal-File-Organizer.py
