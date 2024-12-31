@@ -16,7 +16,7 @@
 3. Check the desired frequencies and protocols.
 4. Click **Start Sorting** to begin.
 
-## Screenshots
+## Screenshot
 ![Organizer Demo](https://github.com/user-attachments/assets/2d7a18a0-f9ad-4d25-8282-1553d85f75ba)
 
 The application organizes the files into directories based on their frequency and protocol, ensuring easy access and management.
@@ -40,5 +40,5 @@ The application organizes the files into directories based on their frequency an
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest executable version for Windows
+You can [download](https://github.com/Vlad-F13/Flipper-SubGHz-Signal-File-Organizer/releases/tag/v1.0) the latest executable version for Windows
    
