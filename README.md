@@ -17,6 +17,7 @@
 4. Click **Start Sorting** to begin.
 
 ## Screenshots
+![Organizer Demo](https://github.com/user-attachments/assets/2d7a18a0-f9ad-4d25-8282-1553d85f75ba)
 
 The application organizes the files into directories based on their frequency and protocol, ensuring easy access and management.
 
