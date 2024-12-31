@@ -16,6 +16,8 @@
 3. Check the desired frequencies and protocols.
 4. Click **Start Sorting** to begin.
 
+## Screenshots
+
 The application organizes the files into directories based on their frequency and protocol, ensuring easy access and management.
 
 ## Requirements
@@ -34,3 +36,5 @@ The application organizes the files into directories based on their frequency an
 2. Run the application:
    ```bash
    python Flipper-SubGHz-Signal-File-Organizer.py
+
+   
