@@ -41,5 +41,5 @@ The application organizes the files into directories based on their frequency an
 
 ## Download
 
-You can [download](https://github.com/Vlad-F13/Flipper-SubGHz-Signal-File-Organizer/releases/tag/v1.0) the latest executable version for Windows
+You can [download](https://github.com/Vlad-F13/Flipper-SubGHz-Signal-File-Organizer/releases/tag/v2.0) the latest executable version for Windows
    
