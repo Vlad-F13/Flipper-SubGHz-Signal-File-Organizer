@@ -23,9 +23,10 @@ The application organizes the files into directories based on their frequency an
 
 
 ## Requirements
-- Python 3.6 or later.
+- Python 3.14 or later.
 - Required Python Libraries:
-  - `tkinter`
+  - `customtkinter`
+  - `CTkToolTip`
   - `shutil`
   - `os`
   - `re`
