@@ -17,9 +17,10 @@
 4. Click **Start Sorting** to begin.
 
 ## Screenshot
-![Organizer Demo](https://github.com/user-attachments/assets/2d7a18a0-f9ad-4d25-8282-1553d85f75ba)
+![Organizer Demo]<img width="700" height="780" alt="Sample_V2" src="https://github.com/user-attachments/assets/1b7e5596-59d9-496d-b5cb-683ba03ec390" />
 
 The application organizes the files into directories based on their frequency and protocol, ensuring easy access and management.
+
 
 ## Requirements
 - Python 3.6 or later.
